@@ -26,3 +26,4 @@ print('loss : ', loss)
 
 y_predict = model.predict(x_test)
 print(y_predict)
+
