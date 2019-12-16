@@ -121,3 +121,4 @@ print('R2_1 : ', r2_y1_predict)
 print('R2_2 : ', r2_y2_predict)
 print('R2_3 : ', r2_y3_predict)
 print('R2 : ', (r2_y1_predict + r2_y2_predict + r2_y3_predict)/3)
+
