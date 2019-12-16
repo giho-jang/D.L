@@ -1,3 +1,5 @@
+# input2 output3
+
 #1. 데이터
 import numpy as np  #numpy를 np로 줄인다
 x1 = np.array([range(100), range(311,411), range(100)])
